@@ -3,7 +3,7 @@
 ## Blockchain
 
 ## Machine Learning
-- ![](https://www.iconfinder.com/icons/17999/bookmark_favorite_star_icon#size=22) [The 9 Deep Learning Papers You Need To Know About](https://adeshpande3.github.io/adeshpande3.github.io/The-9-Deep-Learning-Papers-You-Need-To-Know-About.html)
+- ![](https://cdn2.iconfinder.com/data/icons/crystalproject/22x22/apps/keditbookmarks.png) [The 9 Deep Learning Papers You Need To Know About](https://adeshpande3.github.io/adeshpande3.github.io/The-9-Deep-Learning-Papers-You-Need-To-Know-About.html)
 - Deep Learning, but it helped me understand the nuisances of ML - https://classroom.udacity.com/courses/ud730 and it’s Free
 - [Machine Learning for systems and Systems for Machine Learning](http://learningsys.org/nips17/assets/slides/dean-nips17.pdf)
 - For learning about TensorFlow, I have found this site to be a little clearer than the official documentation: https://learningtensorflow.com/getting_started/
