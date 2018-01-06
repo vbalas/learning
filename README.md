@@ -1,9 +1,9 @@
 # Learning
 
-![](https://cdn2.iconfinder.com/data/icons/pictograms-vol-1/400/star-24.png) - Recommend / Favourite / Bookmarked
+![](https://cdn2.iconfinder.com/data/icons/pictograms-vol-1/400/star-24.png) Recommend / Favourite / Bookmarked
 
 ## Blockchain
-- ![](https://cdn2.iconfinder.com/data/icons/pictograms-vol-1/400/star-24.png)[IBM Blockchain-essentials](https://developer.ibm.com/courses/all/blockchain-essentials/)
+- ![](https://cdn2.iconfinder.com/data/icons/pictograms-vol-1/400/star-24.png) [IBM Blockchain-essentials](https://developer.ibm.com/courses/all/blockchain-essentials/)
 
 ## Machine Learning
 - ![](https://cdn2.iconfinder.com/data/icons/pictograms-vol-1/400/star-24.png) [The 9 Deep Learning Papers You Need To Know About](https://adeshpande3.github.io/adeshpande3.github.io/The-9-Deep-Learning-Papers-You-Need-To-Know-About.html)
