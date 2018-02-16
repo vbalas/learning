@@ -16,6 +16,7 @@
 - [How to break a captch system in 15 minutes with machine learning](https://medium.com/@ageitgey/how-to-break-a-captcha-system-in-15-minutes-with-machine-learning-dbebb035a710)
 - [Neural network playlists](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
 - [What intelligent machines can learn from a school of fish](https://www.ted.com/talks/radhika_nagpal_what_intelligent_machines_can_learn_from_a_school_of_fish)
+- [Machine Learning using Javascript](http://propelml.org/)
 
 ## DevOps
 
