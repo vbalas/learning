@@ -5,6 +5,7 @@
 ## Blockchain
 - ![](https://cdn2.iconfinder.com/data/icons/pictograms-vol-1/400/star-24.png) [IBM Blockchain-essentials](https://developer.ibm.com/courses/all/blockchain-essentials/)
 - [Comparison of Ethereum Vs Hyperledger Vs Corda](https://medium.com/@philippsandner/comparison-of-ethereum-hyperledger-fabric-and-corda-21c1bb9442f6)
+- [Crytp challenges](https://cryptopals.com/)
 
 ## Machine Learning
 - ![](https://cdn2.iconfinder.com/data/icons/pictograms-vol-1/400/star-24.png) [The 9 Deep Learning Papers You Need To Know About](https://adeshpande3.github.io/adeshpande3.github.io/The-9-Deep-Learning-Papers-You-Need-To-Know-About.html)
@@ -17,6 +18,7 @@
 - [Neural network playlists](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
 - [What intelligent machines can learn from a school of fish](https://www.ted.com/talks/radhika_nagpal_what_intelligent_machines_can_learn_from_a_school_of_fish)
 - [Machine Learning using Javascript](http://propelml.org/)
+- [Neural network and Deep learning](http://neuralnetworksanddeeplearning.com/index.html)
 
 ## DevOps
 
