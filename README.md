@@ -25,4 +25,4 @@
 ## Javascript
 
 ## Microservices
-Sample text change made in `hotfix-3` for `develop`
+Sample text change made in `develop`
