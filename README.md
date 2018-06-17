@@ -25,4 +25,4 @@
 ## Javascript
 
 ## Microservices
-Sample text change made in `master readme conflicts there`
+Sample text change made in `hotfix-10 and master`
