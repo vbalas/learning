@@ -25,4 +25,4 @@
 ## Javascript
 
 ## Microservices
-Sample text change made in `develop` branch.
+Sample text change made in `from-master`
